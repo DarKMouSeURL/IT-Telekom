@@ -8,6 +8,7 @@
 - všechny zápisy a materiály, které jsem vytvořil, spadají pod licenci
 - Předměty jsou rozdělené podle ročníků a maturita je separátně
 - obor: **IT** od roku **2023 až 2026**
+- možno si buď naklonovat repositář nebo přes odkaz na NOTION -> https://it-telekom.notion.site/IT-TELEKOM-462fa2b6814d4948a1cabccf1125bb6f
 
 # Licence
 
