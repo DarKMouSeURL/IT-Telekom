@@ -9,6 +9,6 @@
 - Předměty jsou rozdělené podle ročníků a maturita je separátně
 - obor: **IT** od roku **2023 až 2026**
 
-  # Licence
+# Licence
 
 ## **CC BY-NC-SA**
