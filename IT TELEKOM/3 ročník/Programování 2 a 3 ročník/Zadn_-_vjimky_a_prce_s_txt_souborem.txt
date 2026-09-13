@@ -1,0 +1,20 @@
+Ve složce appdata vytvořte složku pojmenovanou po svém příjemní
+a v ní vytvořte soubor data.txt a log.txt
+
+Do souboru ukládejte z uživatelského vstupu hodnoty z rozmezí <-50 , 50 >
+např. pomocí cyklu 10 hodnot
+
+Pokud uživatel zadá hodnotu, uloží se (pokud je v pořádku) rovnou do souboru data.txt, 
+
+pokud v pořádku není, napište do souboru log.txt záznam:
+19. 3. 2024 - 12:10:13 - -63 (hodnota mimo rozsah)
+19. 3. 2024 - 12:12:50 - FormatException
+
+Na konci se vypíše informace, kolik řádků přibylo v data.txt a kolik v log.txt (počítat průběžně při použití programu)
+
+----------------------------------------------------------------------------------------
+
+Na konci vypište obsah souboru log.txt
+
+A zároveň vypište hodnoty ze souboru data.txt, ale jenom ty z rozmezí daného uživatelem. 
+  Např. uživatel na vstupu zadá, že chce vidět jen hodnoty 1 až 40

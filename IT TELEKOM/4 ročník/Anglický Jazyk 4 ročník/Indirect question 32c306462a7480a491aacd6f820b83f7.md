@@ -1,0 +1,22 @@
+# Indirect question
+
+- Where do you live? (Can you tell me)
+    - Can you tell me where you live?
+- What time does the lesson start? (Do you know)
+    - Do you know what time the lessons starts?
+- Why are you late today? (Can you explain)
+    - Can you explain why you are late today?
+- Did you finish your homework? (Could you tell me)
+    - Could you tell me if you finished your homework.
+- How often do you play computer games? (Can you tell me)
+    - Can you tell me how often you play computer games?
+- Where did they go yesterday? (Do you know)
+    - Do you know where they went yesterday?
+- Is she preparing for the test? (Can you tell me)
+    - Can you tell me if she is preparing for the test?
+- When will the meeting begin? ( Do you know)
+    - Do you know when the meeting will begin?
+- Who is your favourite teacher? (Could you tell me)
+    - Could you tell me who your favourite teacher is?
+- Can you help me with this exercise? ( I'd like to know)
+    - I'd like to know if you can help me with this exercise.

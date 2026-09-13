@@ -1,0 +1,36 @@
+print("dobry den "+ "48*9" +"konec")
+'''					3 apostrofy jsou viceradkovy komentar
+print(48*4)
+print(48+4)
+print(48-4)
+#realne deleni
+print("10/2= " + str(10/2)+" / je operator realneho deleni	")
+print("2/3" + str(2/3) +" // je operator realneho deleni	")
+#celociselne deleni
+print("2//3" + str(2//3) +" // je operator celociselneho deleni	")
+print("40//4" + str(40//4) +" // je operator celociselneho deleni	")
+print("123//2" + str(123//82) +" // je operator celociselneho deleni	")
+x=44+63 # = je prirazovaci prikaz, vzhodnoti se prava strana a vysledek se priradi na levou stranu
+'''
+x=44
+print(x)
+cislo=12 #99
+print(cislo)
+Cislo=949
+print(Cislo)
+y = cislo+Cislo
+print(str(cislo) + "+" + str(Cislo) + "=" + str(y)	)
+
+a=10
+b=20
+soucet= a+b
+rozdil= a-b
+soucin= a*b
+podil= a/b
+celociselnypodil= a//b
+print(str(soucet ) + " " + str(rozdil ) + " " + str(soucin ) + " " + str(podil ) + " " + str(celociselnypodil))
+print(soucet)
+print(rozdil)
+print(soucin)
+print(podil)
+print(celociselnypodil)

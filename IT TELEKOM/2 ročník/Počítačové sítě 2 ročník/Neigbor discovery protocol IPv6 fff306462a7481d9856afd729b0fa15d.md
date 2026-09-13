@@ -1,0 +1,6 @@
+# Neigbor discovery protocol IPv6
+
+- Neigbor solicitation messages - požadavek
+- Neigbor advertisement messages - odpověď
+- router solicitation - …
+- router advertisement - …

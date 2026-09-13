@@ -1,0 +1,29 @@
+﻿//1.     Vypište vedle sebe malou násobilku 8mi.
+            int zaklad = 8;           
+
+//2.     Vypište pod sebe malou násobilku 8mi s tím, že budeme vypisovat i samotný postup výpočtu
+            //1 * 8 = 8
+            //2 * 8 = 16
+            //3 * 8 = 24
+            //    ...
+            //10 * 8 = 80
+
+//3.     Vypište čísla od 20 do -20 sestupně
+
+//4.     Odečtěte od proměnné cislo 5x číslo 8
+         
+//5.     Vypište vedle sebe tolikrát znak %, kolikrát zadá uživatel
+           
+//6.     Vypište pod sebe tolik náhodných čísel od -50 do 50, kolik zadá uživatel
+            Random nahoda = new Random(); //vytvoření generátoru náhodných čísel
+
+//7.     Vypište všechna čísla od -200 do 200 dělitelné číslem, které zadá uživatel
+            
+//8.     Vypište všechny čísla z rozsahu, který zadá uživatel <od, do>, které jsou dělitelné číslem 17
+            
+//9.     Vypište vedle sebe 20 náhodných čísel od -15 do 15 a pod ně napište, 
+         //kolik z těchto čísel je sudých a kolik je lichých. 
+
+//10.  Vypočítejte faktoriál čísla x zadaného uživatelem
+       //Pozn. pokud x = 5, výsledek je 5*4*3*2*1 = 120
+

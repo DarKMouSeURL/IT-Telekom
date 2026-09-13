@@ -1,0 +1,8 @@
+print("Toto je dobry den.")
+print("druhy radek...")
+print(10+6)    #toto je aritmeticka oper.
+print("10+6")  #toto je znak. ret.
+#toto je moje poznamka
+#print(10-6)
+#print(10*6)
+print(10/6)

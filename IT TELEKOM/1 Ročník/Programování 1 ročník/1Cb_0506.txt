@@ -1,0 +1,39 @@
+#01234567abcdefgh      rezim klavesnice   vkladani/prepisovani OK
+print  	(   "Dobry den"   +    " 123 789 " + "KONEC"    )
+'''        3 apostrofy jsou viceradkovy komentar
+print(10+2)
+print(10-2)
+print(10*2)
+#realne deleni
+print("10/2=" + str(10/2) + "  / je operator realneho deleni")
+print(2/3)
+print(123/4)
+print(21/8)
+#celociselne deleni
+print("10//2=" + str(10//2) + "  // je operator celociselneho deleni")
+print(2//3)
+print(123//4)
+print(21//8)
+'''
+x=44+6    # = je prirazovani prikaz tj. vyhodnoti se prava strana a
+          # vysledek se priradi na levou stranu
+print(x)
+cislo=12#99
+print(cislo)
+Cislo = 199
+print(Cislo)
+y = cislo + Cislo
+print( str(cislo) + "+" + str(Cislo) + "=" + str(y) )
+
+a = 10
+b = 20
+soucet = a + b
+rozdil = a - b
+soucin = a * b
+podil = a / b
+celociselnyPodil = a // b
+print(soucet)
+print(rozdil)
+print(soucin)
+print(podil)
+print(celociselnyPodil)

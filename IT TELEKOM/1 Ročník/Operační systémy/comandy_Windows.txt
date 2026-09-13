@@ -1,0 +1,19 @@
+ping
+ipconfig /all
+ipconfig /flushdns
+ipconfig /displaydns
+nslookup seznam.cz
+arp -a
+netsat -b
+netstat -r
+tracert google.com
+route print
+tasklist
+diskpart
+dir
+copy
+md
+rd
+del
+ver
+whoami /all

@@ -1,0 +1,22 @@
+﻿            //1) Generujte a vypisujte pod sebe čísla od -20 do 20ti tak dlouho
+            //dokud vygenerujete číslo 0.
+            //Číslo 0 se na konci VYPÍŠE!
+
+            //2) Generujte a vypisujte pod sebe čísla od -20 do 20ti tak dlouho
+            //dokud vygenerujete číslo 0.
+            //Číslo 0 se na konci NEVYPÍŠE!
+
+            //3) Celočíselné dělení vys =  x / y realizované pomocí odečítání
+
+            //4) Vypište malou násobilku čísla 6 pozpátku pomocí cyklu while (ne for). 
+            //Vypisujte vedle sebe.
+            // 60    54     48    ...   6
+
+            //5) Vypisujte na vyzvání jména tak dlouho, dokud nenapíšete slovo end,
+            //potom se program ukončí
+
+            //6)  Generujte náhodná čísla od -100 do 100 tak dlouho, dokud se vylosují
+            //3 čísla celočíslně dělitelná 17ti. 
+            //Tato čísla vypište vedle sebe a pod ně napište počet pokusů, které jste
+            //na generování potřebovali. 
+
